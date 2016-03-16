@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<catalog xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog" prefer="system">
+    <system systemId="http://localhost:8084/ServerSuma/WSSuma?wsdl" uri="wsdl/localhost_8084/ServerSuma/WSSuma.wsdl"/>
+    <system systemId="http://localhost:8084/ServerSuma/WSSuma?xsd=1" uri="wsdl/localhost_8084/ServerSuma/WSSuma.xsd_1.xsd"/>
+    <system systemId="http://localhost:8080/ServerSuma/WebServiceSuma?WSDL" uri="wsdl/localhost_8080/ServerSuma/WebServiceSuma.wsdl"/>
+    <system systemId="http://localhost:8080/ServerSuma/WebServiceSuma?xsd=1" uri="wsdl/localhost_8080/ServerSuma/WebServiceSuma.xsd_1.xsd"/>
+</catalog>
