@@ -16,6 +16,7 @@ import javax.xml.ws.WebServiceRef;
 import suma.server.WebServiceSuma_Service;
 
 @ManagedBean(name = "SumaBean")
+//Metodo
 public class SumaBean {
     @WebServiceRef(wsdlLocation = "WEB-INF/wsdl/localhost_8080/ServerSuma/WebServiceSuma.wsdl")
     private WebServiceSuma_Service service;
